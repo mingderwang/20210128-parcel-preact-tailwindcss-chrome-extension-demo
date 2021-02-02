@@ -17,3 +17,6 @@ Go to browsers' extensions page(chrome://extensions/ for Chrome browser) and "Lo
 
 Step 4. </br>
 Develop! </br>
+
+# deploy to ipfs
+use 20210131-multi-page-first-step
