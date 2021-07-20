@@ -10,10 +10,10 @@ let Header = () => {
   <div class="text-center sm:text-left sm:flex-grow"> 
       <div class="mb-4"> 
         <p class="text-xl leading-tight">Ming-der Wang</p> 
-        <p class="text-sm leading-tight text-grey-dark">Developer at MuzaMint Labs.</p> 
+        <p class="text-sm leading-tight text-grey-dark">Developer at Muzamint.</p> 
       </div> 
       <div> 
-        <button class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:bg-purple hover:text-white">Hello, World</button> 
+        <button class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:bg-purple hover:text-white">Connect</button> 
       </div> 
     </div> 
   </div>
